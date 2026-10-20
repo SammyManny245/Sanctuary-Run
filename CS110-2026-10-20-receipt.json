@@ -1,0 +1,207 @@
+{
+  "schema": "sanctuary-run-receipt/2",
+  "id": "0ca626d4-7112-4966-a025-5109489d51a9:a346dce9-9ea8-45a2-9ceb-5f08b6ef0f87:2026-10-20",
+  "course": "CS110",
+  "event": "The Crossing 9",
+  "eventCode": "C0AF9F",
+  "day": "2026-10-20",
+  "timeZone": "America/Los_Angeles",
+  "player": "SammyManny245",
+  "playerId": "a346dce9-9ea8-45a2-9ceb-5f08b6ef0f87",
+  "team": "The Lost Awayzo",
+  "participation": "team",
+  "teamCrest": 0,
+  "prizeEligible": true,
+  "prizeRule": "Team prizes require two or more members when the round starts. Solo travelers earn activity credit only.",
+  "status": "daily-target-met",
+  "roundResults": [
+    {
+      "round": 1,
+      "prizePlace": null,
+      "prizeEligible": false
+    },
+    {
+      "round": 2,
+      "prizePlace": 2,
+      "prizeEligible": true
+    }
+  ],
+  "points": 13.5,
+  "dailyTarget": 10,
+  "additionalPoints": 3.5,
+  "awardIds": [
+    "d8b0c5b8-acad-46c1-9404-cc78c47a2487",
+    "b3ec980d-c41f-4da7-87b0-d825ba790aa4",
+    "03c74e17-9c36-498f-b5ca-e96458ad286e",
+    "4d702764-ea15-4f00-bf91-62a244b8a07a",
+    "83582fd5-8139-429b-b2d7-21fdcc51b5da",
+    "9d41df28-dd74-4076-97a5-8cd945b51f2d",
+    "14fedd89-44ba-4d38-9747-b097aa19808c",
+    "dca7e185-ec30-4405-aa9a-d399a025b011",
+    "30e00914-7d01-4f63-a22b-d14f9863be20",
+    "003255e8-3fb8-4465-9234-01c8a8bc2344",
+    "d1974f32-c0dc-4fed-9222-9f882ba772d9",
+    "dced5d04-3ea5-4d05-bc2d-23ffb236b879",
+    "8f5a8e8d-15f8-424c-9e45-80970deef838",
+    "9fb20458-fab0-4da8-8159-c1be3063c768",
+    "b4274401-b714-4081-aa18-1411491efcb9",
+    "617032f4-b19f-44c0-a376-c7bbe3234e56",
+    "946df05e-0605-46ac-888c-556d7f4c239d",
+    "d8522229-6959-46b9-8f95-de433fc168be",
+    "707a2df1-e0c3-4dd8-b273-86327f81585b",
+    "7d8a942f-f637-4444-a5ee-b98112121f4b",
+    "477ac17c-8b21-4c2d-9e1c-e5f5a61c7d86"
+  ],
+  "encounters": [
+    {
+      "title": "The Lost Notice",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:53:08.812Z"
+    },
+    {
+      "title": "The Broken Signpost",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:53:42.783Z"
+    },
+    {
+      "title": "The Supply Cache",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T20:55:32.476Z"
+    },
+    {
+      "title": "The Missing Portrait",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:03:09.652Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:03:21.817Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:03:41.064Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:03:54.061Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:04:26.319Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:04:41.784Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:05:10.409Z"
+    },
+    {
+      "title": "The Ruined Archive",
+      "subject": "html",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:06:54.809Z"
+    },
+    {
+      "title": "The Hidden Signal",
+      "subject": "css",
+      "points": 1,
+      "round": 2,
+      "at": "2026-10-20T21:08:37.225Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:08:47.199Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:08:58.875Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:09:10.166Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:09:17.930Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:09:27.441Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:09:40.507Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:09:49.660Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:10:01.848Z"
+    },
+    {
+      "title": "A Quick Encounter",
+      "subject": "quiz",
+      "points": 0.5,
+      "round": 2,
+      "at": "2026-10-20T21:10:13.174Z"
+    }
+  ],
+  "issuedAt": "2026-10-20T21:10:42.349Z",
+  "records": "Verified activity record; save this receipt in your course GitHub repository and submit the repository link through Canvas.",
+  "signature": "192549646fba445532b9b8d4b54ad6423be36e132e456b2d428e0b2ddd724bad"
+}
